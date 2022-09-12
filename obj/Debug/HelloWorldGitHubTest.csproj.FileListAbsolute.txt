@@ -1,0 +1,8 @@
+C:\Users\w0197704\OneDrive - Nova Scotia Community College\Programming 1\HelloWorldGitHubTest\HelloWorldGitHubTest\bin\Debug\HelloWorldGitHubTest.exe.config
+C:\Users\w0197704\OneDrive - Nova Scotia Community College\Programming 1\HelloWorldGitHubTest\HelloWorldGitHubTest\bin\Debug\HelloWorldGitHubTest.exe
+C:\Users\w0197704\OneDrive - Nova Scotia Community College\Programming 1\HelloWorldGitHubTest\HelloWorldGitHubTest\bin\Debug\HelloWorldGitHubTest.pdb
+C:\Users\w0197704\OneDrive - Nova Scotia Community College\Programming 1\HelloWorldGitHubTest\HelloWorldGitHubTest\obj\Debug\HelloWorldGitHubTest.csproj.AssemblyReference.cache
+C:\Users\w0197704\OneDrive - Nova Scotia Community College\Programming 1\HelloWorldGitHubTest\HelloWorldGitHubTest\obj\Debug\HelloWorldGitHubTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\w0197704\OneDrive - Nova Scotia Community College\Programming 1\HelloWorldGitHubTest\HelloWorldGitHubTest\obj\Debug\HelloWorldGitHubTest.csproj.CoreCompileInputs.cache
+C:\Users\w0197704\OneDrive - Nova Scotia Community College\Programming 1\HelloWorldGitHubTest\HelloWorldGitHubTest\obj\Debug\HelloWorldGitHubTest.exe
+C:\Users\w0197704\OneDrive - Nova Scotia Community College\Programming 1\HelloWorldGitHubTest\HelloWorldGitHubTest\obj\Debug\HelloWorldGitHubTest.pdb
